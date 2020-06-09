@@ -1,0 +1,5 @@
+total 88
+drwxr-xr-x  4 Lucia  staff    136 19 apr 15:25 Arduino
+-rw-r--r--@ 1 Lucia  staff  42594  1 júl  2018 Softvérová licencia pre iTunes.rtf
+drwxr-xr-x  4 Lucia  staff    136  9 jún 17:30 local_git
+drwxr-xr-x  3 Lucia  staff    102  9 jún 16:20 node_workspace
