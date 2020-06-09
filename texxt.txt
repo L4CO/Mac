@@ -3,3 +3,14 @@ drwxr-xr-x  4 Lucia  staff    136 19 apr 15:25 Arduino
 -rw-r--r--@ 1 Lucia  staff  42594  1 júl  2018 Softvérová licencia pre iTunes.rtf
 drwxr-xr-x  4 Lucia  staff    136  9 jún 17:30 local_git
 drwxr-xr-x  3 Lucia  staff    102  9 jún 16:20 node_workspace
+commit 689515d478f99ad857a1bf42a54530920ecef367
+Author: Lucia Vrabelova <Lucia@airuzivelalucia.localdomain>
+Date:   Tue Jun 9 17:33:39 2020 +0200
+
+    second commit
+
+commit 703efcfc337b406652df61f01e4e4b4862f935de
+Author: Lucia Vrabelova <Lucia@airuzivelalucia.localdomain>
+Date:   Tue Jun 9 17:16:15 2020 +0200
+
+    ínitial project version
