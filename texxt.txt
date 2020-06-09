@@ -14,3 +14,7 @@ Author: Lucia Vrabelova <Lucia@airuzivelalucia.localdomain>
 Date:   Tue Jun 9 17:16:15 2020 +0200
 
     ínitial project version
+  PID TTY           TIME CMD
+  675 ttys000    0:00.14 -bash
+ 1084 ttys001    0:00.07 -bash
+ 1403 ttys002    0:00.01 -bash
